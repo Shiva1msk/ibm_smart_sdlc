@@ -1,1 +1,6 @@
-![image](https://github.com/user-attachments/assets/6ff4d6db-69f3-4144-b26e-ba70fb221ff1)
+---
+title: ibm_startsdlc
+app_file: smartsdlc_app.py
+sdk: gradio
+sdk_version: 5.31.0
+---

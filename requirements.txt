@@ -1,0 +1,8 @@
+
+gradio
+transformers
+torch
+accelerate
+pandas
+plotly
+numpy
