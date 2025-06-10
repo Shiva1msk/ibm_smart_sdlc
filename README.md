@@ -98,17 +98,6 @@ The application is deployed on Hugging Face Spaces, providing instant access to 
 ![image](https://github.com/user-attachments/assets/7da8fca8-7d31-43cb-9228-7af0221a2471)
 *Main dashboard showing the SDLC overview and key metrics*
 
-
-
-
-
-**Note**: To add your project screenshots:
-1. Create an `images/` folder in your repository root
-2. Add your screenshot files with descriptive names
-3. Update the image paths above to match your actual screenshots
-4. Ensure images are in common formats (PNG, JPG, GIF)
-5. Optimize image sizes for faster loading (recommended: max 1200px width)
-
 ## 📊 Key Components
 
 ### smartsdlc_app.py
